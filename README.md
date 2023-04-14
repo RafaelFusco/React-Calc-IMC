@@ -10,3 +10,7 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 
 ### Para rodar
 - `npm start`
+
+# Deploy
+
+-> https://643997b38356881ce0665b15--calculadora-de-imc777.netlify.app/
